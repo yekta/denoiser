@@ -1,5 +1,5 @@
-hydra_core==0.11.3
-hydra_colorlog==0.1.4
+hydra_core==1.3.2
+hydra_colorlog==1.2.0
 numpy
 pystoi==0.3.3
 git+https://github.com/ludlows/python-pesq#egg=pesq
